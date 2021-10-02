@@ -5,7 +5,7 @@ Who are we?
 
 
 Lynn Stanwyck is a 4th year medical student at Virginia Tech Carilion School of Medicine who is interested in the intersections of space and medicine!
-Claudia Perez is a masters student in biology at Virigina Tech who ....
+Claudia Perez is a Master's student in Biological Sciences who loves board games and space!
 
 Where we come from:
 
