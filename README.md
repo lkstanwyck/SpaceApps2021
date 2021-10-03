@@ -15,9 +15,11 @@ Provide additional details about your project. What exactly does it do? How does
 
 ## Demo
 
-Hi! We’re Claudia and Lynn of the Penguins of Callisto. We chose to hack Space Quest: The Game. We’re here to prove that board games are a great format for teaching, while having fun. 
-Our game is called Otherworldly Explorers. The goal of the game is to increase public interest in space science by performing outreach and completing missions. We’re designing it to be easy to pick up and fairly quick to play. Players prepare for missions on Earth, then travel to the destination side of the board. Here we’ve demoed Jupiter and its 4 Galilean moons. All of our cards have details and fun facts sourced mostly from NASA datasets. We’ve included lots of information about past and future real-life missions, as well as space technologies. 
-We want people to have fun while learning amazing things about the world and universe around us. Check out our GitHub for more details! Check out our [Wiki page](https://github.com/lkstanwyck/SpaceApps2021/wiki) for more details!
+Hi! We’re Claudia and Lynn of the Penguins of Callisto. We chose to hack Space Quest: The Game. We’re here to prove that board games are a great format for teaching, while having fun. Gen Con is the largest board game convention in North America and been running annually since 1967. In 2019 there were 70,000 attendees and 538 exhibitors! Board gaming has expanded beyond a hobby, it now reaches deeper into other realms, like the classroom.
+
+Our game is called Otherworldly Explorers. The goal of the game is to increase public interest in space science by performing outreach and completing missions. We’re designing it to be easy to pick up and quick to play. A game should take about 45 minutes. Players prepare for missions at different locations on Earth. These locations include Mission Headquarters, the Research Center, Media and Communications, and Engineering, which is where Launch Pad is located. When a rocket is ready, it travels through space and encounters some space event. Afterwards, the rocket is on the destination side of the board. Here we’ve demoed Jupiter and its 4 Galilean moons. All of our cards have details and fun facts sourced mostly from NASA websites and datasets. We’ve included lots of information about real-life missions of the past, present, and future. Our Technology cards give emphasis to the kinds of tools required to study different aspects of space science. 
+
+We want people to have fun while learning amazing things about the world and universe around us. Check out our [GitHub Wiki page](https://github.com/lkstanwyck/SpaceApps2021/wiki) for more details!
 
 
 A more detailed walk through
