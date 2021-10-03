@@ -13,7 +13,11 @@ We developed a board game as a solution to the "Space Quest: The Game" challenge
 Provide additional details about your project. What exactly does it do? How does it work? What benefits does it have? What do you hope to achieve? What tools, coding languages, hardware, or software did you use to develop your project?
 
 
-## Demo
+## Demos
+
+[Check out our 30 second demo video here!](https://youtu.be/OQqrTKpcdfU)
+[Check out our more in depth demo video here!](https://youtu.be/OQqrTKpcdfU)
+[Check out how to play a round here!](https://youtu.be/OQqrTKpcdfU)
 
 Hi! We’re Claudia and Lynn of the Penguins of Callisto. We chose to hack Space Quest: The Game. We’re here to prove that board games are a great format for teaching, while having fun. Gen Con is the largest board game convention in North America and been running annually since 1967. In 2019 there were 70,000 attendees and 538 exhibitors! Board gaming has expanded beyond a hobby, it now reaches deeper into other realms, like the classroom.
 
@@ -26,10 +30,16 @@ A more detailed walk through
 
 
 
-
 ## Our Hackaton Journey:
 
 How would you describe your Space Apps experience? What did you learn? What inspired your team to choose this challenge? What was your approach to developing this project? How did your team resolve setbacks and challenges? Is there anyone you'd like to thank and why?
+
+Our hackthon journey started at a rugby game--at least that's we decided to become a team off the field. We both love space and board games so looked at the different challenges, saw "Space Quest: The Game" and knew what we were doing with our next weekend.
+
+When the hackthathon started we knew we wanted our game to impact a wide audience (we decided on middle school and older), have a small time investment (we estimate about 10 minutes to learn and 45 minutes to play), to be highly educational (all our cards have real facts about technology, past or future mission, or space research), and most of all to be fun! We started by pulled out all our board games for inspiration: Pandemic, Lift Off, Terraforming Mars, Horrified, Cytosis, Ticket to Ride and more! It was quite a mess. We thought about what type of experinece we wanted players to have. Should the compete or corrporate? Was it going to be a card game? A tile placing game? An adventure game? We decided on a mix, with, of course, a focus on eduvation. 
+
+Next came the hard part, what place in space did we want to explore? There were so many options and we couldn't just pick just one!
+
 
 
 
