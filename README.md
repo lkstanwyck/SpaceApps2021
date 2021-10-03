@@ -7,7 +7,7 @@ Lynn Stanwyck is a 4th year medical student at Virginia Tech Carilion School of 
 Claudia Perez is a Master's student in Biological Sciences who loves board games and space!
 
 
-## Our Idea
+## Our Idea: Otherworldly Explorers
 We developed a board game as a solution to the "Space Quest: The Game" challenge. In this game you are a company and your goal is to create positive public perception by successfully launching and completing science mission. We decided that we wanted to impact a broad audience, our goal being middle schoolers or older, with a small time investment. The game should take about 10 minutes to learn and 45 minutes to play. We believe not only is a fun way to learn about what it takes to explore space and perform research, but will also will teach important life skill such as problem solving, communication skiils and the importance of failures. Enjoy!
 
 
