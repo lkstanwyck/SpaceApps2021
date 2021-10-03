@@ -1,5 +1,5 @@
 # SpaceApps2021
-Welcome to our starmazing board game by the Penguins of Callisto! This project is a board game made to address the NASA SpaceApps2021 challenge titled "Space Quest: The Game". Please see our Wiki Page for all details about our game, including drafts of the components.
+Welcome to our starmazing board game by the Penguins of Callisto! This project is a board game made to address the NASA SpaceApps2021 challenge titled "Space Quest: The Game". Please see our [Wiki page](https://github.com/lkstanwyck/SpaceApps2021/wiki) for all details about our game, including drafts of the components.
 
 ## Who are we?
 
