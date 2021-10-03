@@ -15,20 +15,19 @@ Provide additional details about your project. What exactly does it do? How does
 
 ## Demos
 
-[Check out our 30 second demo video here!](https://youtu.be/OQqrTKpcdfU)
-[Check out our more in depth demo video here!](https://youtu.be/OQqrTKpcdfU)
+[Check out our 30 second demo video here!](https://youtu.be/OQqrTKpcdfU)          
+[Check out our more in depth demo video here!](https://youtu.be/OQqrTKpcdfU)          
 [Check out how to play a round here!](https://youtu.be/OQqrTKpcdfU)
 
 Hi! We’re Claudia and Lynn of the Penguins of Callisto. We chose to hack Space Quest: The Game. We’re here to prove that board games are a great format for teaching, while having fun. Gen Con is the largest board game convention in North America and been running annually since 1967. In 2019 there were 70,000 attendees and 538 exhibitors! Board gaming has expanded beyond a hobby, it now reaches deeper into other realms, like the classroom.
 
-Our game is called Otherworldly Explorers. The goal of the game is to increase public interest in space science by performing outreach and completing missions. We’re designing it to be easy to pick up and quick to play. A game should take about 45 minutes. Players prepare for missions at different locations on Earth. These locations include Mission Headquarters, the Research Center, Media and Communications, and Engineering, which is where Launch Pad is located. When a rocket is ready, it travels through space and encounters some space event. Afterwards, the rocket is on the destination side of the board. Here we’ve demoed Jupiter and its 4 Galilean moons. All of our cards have details and fun facts sourced mostly from NASA websites and datasets. We’ve included lots of information about real-life missions of the past, present, and future. Our Technology cards give emphasis to the kinds of tools required to study different aspects of space science. 
+Our game is called Otherworldly Explorers. The goal of the game is to increase public interest in space science by performing outreach and completing missions. We’re designing it to be easy to pick up and quick to play. A game should take about 45 minutes. Players prepare for missions at different locations on Earth. These locations include Mission Headquarters, the Research Center, Media and Communications, and Engineering, which is where Launch Pad is located. When a rocket is ready, it travels through space and encounters some space event. Afterwards, the rocket is on the destination side of the board. Here we’ve demoed Jupiter and its 4 Galilean moons. All of our cards have details and fun facts sourced mostly from NASA websites and datasets. We’ve included lots of information about real-life missions of the past, present, and future. Our Technology cards give emphasis to the kinds of tools required to study different aspects of space science. Our Media cards showcase the many ways you can communicate science to the public.  
 
-We want people to have fun while learning amazing things about the world and universe around us. Check out our [GitHub Wiki page](https://github.com/lkstanwyck/SpaceApps2021/wiki) for more details!
+We want people to sit down together and have fun while learning amazing things about the world and universe around us. We hope that every player gets excited about the space research going on around the world, because they can definitely get involved themselves! Check out our [GitHub Wiki page](https://github.com/lkstanwyck/SpaceApps2021/wiki) for more details!
 
+Our game has been designed to be easily picked up and played. Most of the text is not necessary for gameplay, so if you just want to sit and play, you can. However, we highly recommend engaging with the game more because the text adds a lot of cool background information and depth to the game. For example, you may have a mission that involves a mass spectrometer, and the text about how it works, in what cases it can be used, and what data it provides, could make you want to learn more about the instrument. The game will have multiple destinations, each with many mission cards, so it is highly replayable. Expansions can be added with even more destinations, missions, technologies, corporations, events, and media outreach cards. New gameplay mechanisms can be added through expansions as well. 
 
-A more detailed walk through
-
-
+At this point, we have digital demo verions of all card types, and the Jupiter destination components. We also have draft physical versions of these items, that aren't as detailed, but allow us to move the pieces around as a player would. These physical drafts are mostly paper and board game components from other games. 
 
 ## Our Hackaton Journey:
 
