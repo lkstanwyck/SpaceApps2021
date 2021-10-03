@@ -8,8 +8,8 @@ Claudia Perez is a Master's student in Biological Sciences who loves board games
 
 
 ## Our Idea
-Povide a high-level summary of your project. What did you develop? How does it "solve" the challenge? Why is it important?
-Our goal was to create a fun board game that was also very educational about space and what it takes to explore space and do research. We decided that we wanted to reach a broad audience, our goal being middle schoolers or older, with a small time investment
+Provide a high-level summary of your project. What did you develop? How does it "solve" the challenge? Why is it important?
+Our goal was to create a fun board game that is also very educational about space and what it takes to explore space and do research. We decided that we wanted to reach a broad audience, our goal being middle schoolers or older, with a small time investment. The game should take about 10 minutes to learn and 45 minutes to play. 
 
 (Detailed Project Description* Provide additional details about your project. What exactly does it do? How does it work? What benefits does it have? What do you hope to achieve? What tools, coding languages, hardware, or software did you use to develop your project?) 
 
