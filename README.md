@@ -15,7 +15,11 @@ Provide additional details about your project. What exactly does it do? How does
 
 ## Demo
 
-A breif 30 second video
+Hi! We’re Claudia and Lynn of the Penguins of Callisto. We chose to hack Space Quest: The Game. We’re here to prove that board games are a great format for teaching, while having fun. 
+Our game is called Otherworldly Explorers. The goal of the game is to increase public interest in space science by performing outreach and completing missions. We’re designing it to be easy to pick up and fairly quick to play. Players prepare for missions on Earth, then travel to the destination side of the board. Here we’ve demoed Jupiter and its 4 Galilean moons. All of our cards have details and fun facts sourced mostly from NASA datasets. We’ve included lots of information about past and future real-life missions, as well as space technologies. 
+We want people to have fun while learning amazing things about the world and universe around us. Check out our GitHub for more details! 
+![image](https://user-images.githubusercontent.com/63756808/135771269-d070ca4e-a20e-4fc8-9312-ffe306cb7736.png)
+
 
 A more detailed walk through
 
