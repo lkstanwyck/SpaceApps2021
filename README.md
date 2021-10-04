@@ -15,7 +15,7 @@ We developed a board game as a solution to the "Space Quest: The Game" challenge
 
 [Check out our 30 second demo video here!](https://youtu.be/OQqrTKpcdfU)          
 [Check out our more in depth demo video here!](https://youtu.be/ifjC1pgIFUM)          
-[Check out how to play a round here!](https://youtu.be/OQqrTKpcdfU)
+[Check out how to play a round here!](https://www.youtube.com/watch?v=SqH-uj7kZmo)
 
 Hi! We’re Claudia and Lynn of the Penguins of Callisto. We chose to hack Space Quest: The Game. We’re here to prove that board games are a great format for teaching, while having fun. Gen Con is the largest board game convention in North America and been running annually since 1967. In 2019 there were 70,000 attendees and 538 exhibitors! Board gaming has expanded beyond a hobby, it now reaches deeper into other realms, like the classroom.
 
